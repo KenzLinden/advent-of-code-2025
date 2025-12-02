@@ -119,6 +119,7 @@ pub fn solve(input_path: &str) {
     println!("== DAY 1 ==");
     println!("Part 1: {}", part_1(input_path));
     println!("Part 2: {}", part_2(input_path));
+    println!("");
 }
 
 #[cfg(test)]
