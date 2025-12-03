@@ -1,6 +1,6 @@
 mod aoc;
 
 fn main() {
-    aoc::day_one::solve("input/day_one.txt");
-    aoc::day_two::solve("input/day_two.txt");
+    aoc::day_1::solve("input/day_1.txt");
+    aoc::day_2::solve("input/day_2.txt");
 }

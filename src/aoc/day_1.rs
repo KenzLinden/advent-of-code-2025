@@ -129,13 +129,13 @@ mod test {
 
     #[test]
     fn part_1_example() {
-        let ans = part_1("input/day_one_example.txt");
+        let ans = part_1("input/day_1_example.txt");
         assert_eq!(ans, 3);
     }
 
     #[test]
     fn part_2_example() {
-        let ans = part_2("input/day_one_example.txt");
+        let ans = part_2("input/day_1_example.txt");
         assert_eq!(ans, 6);
     }
 }
