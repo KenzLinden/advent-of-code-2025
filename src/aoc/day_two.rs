@@ -1,4 +1,4 @@
-use std::{collections::{HashMap}, fs};
+use std::{fs};
 
 
 fn is_two_repeating_pattern(s: String) -> bool {
